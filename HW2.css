@@ -1,0 +1,19 @@
+div.page-header{
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-size: 4.0rem;
+    line-height: 1.12;
+    letter-spacing: -0.9px;
+    margin-bottom: .5em;
+    margin-top: 0;
+    color: black;
+    text-align: center;
+}
+
+div.page-footer{
+    background:	#E8E8E8;
+    text-align:left;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    line-height:1.7;
+}
